@@ -1,0 +1,71 @@
+10
+
+dir
+4
+https://investprofilecore.googlecode.com/svn/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/target
+https://investprofilecore.googlecode.com/svn
+
+
+
+2010-06-13T21:33:12.434235Z
+3
+mauricio.pinheiro
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+30922b7a-299a-7d6a-f173-f15b216c7786
+
+classes
+dir
+
+investprofile-core-1.0-SNAPSHOT.jar
+file
+
+
+
+
+2010-10-12T18:51:22.102000Z
+b4fbfb5d9886a213e54d4c33c3705df2
+2010-06-13T21:33:12.434235Z
+3
+mauricio.pinheiro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+133559
+
+surefire-reports
+dir
+
+test-classes
+dir
+

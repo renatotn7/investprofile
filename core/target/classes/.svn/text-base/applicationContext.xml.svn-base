@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd"
+       default-lazy-init="true">
+
+    <!-- Add new DAOs here -->
+    <!-- AcaoDao: Hibernate implementation -->
+    <bean id="acaoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.AcaoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- CotacaoDao: Hibernate implementation -->
+    <bean id="cotacaoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.CotacaoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- PerfilInvestimentoDao: Hibernate implementation -->
+    <bean id="perfilInvestimentoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.PerfilInvestimentoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- CarteiraDao: Hibernate implementation -->
+    <bean id="carteiraDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.CarteiraDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- PosicaoDao: Hibernate implementation -->
+    <bean id="posicaoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.PosicaoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- RecomendacaoDao: Hibernate implementation -->
+    <bean id="recomendacaoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.RecomendacaoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- RecomendacaoAnalistaDao: Hibernate implementation -->
+    <bean id="recomendacaoAnalistaDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.RecomendacaoAnalistaDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- RecomendacaoPerfilDao: Hibernate implementation -->
+    <bean id="recomendacaoPerfilDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.RecomendacaoPerfilDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- RespostaDao: Hibernate implementation -->
+    <bean id="respostaDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.RespostaDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- QuestaoDao: Hibernate implementation -->
+    <bean id="questaoDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.QuestaoDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+    <!-- QuestionarioDao: Hibernate implementation -->
+    <bean id="questionarioDao" class="br.pucrio.inf.les.investprofile.dao.hibernate.QuestionarioDaoHibernate">
+        <property name="sessionFactory" ref="sessionFactory"/>
+    </bean>
+
+    <!-- Add new Managers here -->
+	<bean id="acaoManager" class="br.pucrio.inf.les.investprofile.service.impl.AcaoManagerImpl">     
+	    <constructor-arg ref="acaoDao"/>
+	</bean>
+	<bean id="cotacaoManager" class="br.pucrio.inf.les.investprofile.service.impl.CotacaoManagerImpl">     
+	    <constructor-arg ref="cotacaoDao"/>
+	</bean>
+	<bean id="perfilInvestimentoManager" class="br.pucrio.inf.les.investprofile.service.impl.PerfilInvestimentoManagerImpl">     
+	    <constructor-arg ref="perfilInvestimentoDao"/>
+	</bean>
+	<bean id="carteiraManager" class="br.pucrio.inf.les.investprofile.service.impl.CarteiraManagerImpl">
+		<constructor-arg ref="carteiraDao"/>
+	</bean>
+	<bean id="posicaoManager" class="br.pucrio.inf.les.investprofile.service.impl.PosicaoManagerImpl">
+		<constructor-arg ref="posicaoDao"/>
+	</bean>	
+	<bean id="recomendacaoManager" class="br.pucrio.inf.les.investprofile.service.impl.RecomendacaoManagerImpl">     
+	    <constructor-arg ref="recomendacaoDao"/>
+	</bean>
+	<bean id="recomendacaoPerfilManager" class="br.pucrio.inf.les.investprofile.service.impl.RecomendacaoPerfilManagerImpl">     
+	    <constructor-arg ref="recomendacaoPerfilDao"/>
+	</bean>
+	<bean id="recomendacaoAnalistaManager" class="br.pucrio.inf.les.investprofile.service.impl.RecomendacaoAnalistaManagerImpl">     
+	    <constructor-arg ref="recomendacaoAnalistaDao"/>
+	</bean>
+	<bean id="respostaManager" class="br.pucrio.inf.les.investprofile.service.impl.RespostaManagerImpl">     
+	    <constructor-arg ref="respostaDao"/>
+	</bean>
+	<bean id="questaoManager" class="br.pucrio.inf.les.investprofile.service.impl.QuestaoManagerImpl">     
+	    <constructor-arg ref="questaoDao"/>
+	</bean>
+	<bean id="questionarioManager" class="br.pucrio.inf.les.investprofile.service.impl.QuestionarioManagerImpl">     
+	    <constructor-arg ref="questionarioDao"/>
+	</bean>
+</beans>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util
+END
+CurrencyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util/CurrencyConverter.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util/DateConverter.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util/DateUtil.java
+END
+TimestampConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util/TimestampConverter.java
+END
+ConvertUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/util/ConvertUtil.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/UserService.java
+END
+BaseManagerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/BaseManagerTestCase.java
+END
+UniversalManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/UniversalManager.java
+END
+LookupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/LookupManager.java
+END
+CotacaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/CotacaoManager.java
+END
+GenericManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/GenericManager.java
+END
+MailEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/MailEngine.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/UserManager.java
+END
+RecomendacaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/RecomendacaoManager.java
+END
+QuestaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/QuestaoManager.java
+END
+RecomendacaoPerfilManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/RecomendacaoPerfilManager.java
+END
+QuestionarioManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/QuestionarioManager.java
+END
+PerfilInvestimentoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/PerfilInvestimentoManager.java
+END
+UserSecurityAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/UserSecurityAdvice.java
+END
+CarteiraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/CarteiraManager.java
+END
+RecomendacaoAnalistaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/RecomendacaoAnalistaManager.java
+END
+PosicaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/PosicaoManager.java
+END
+RespostaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/RespostaManager.java
+END
+RoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/RoleManager.java
+END
+UserExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/UserExistsException.java
+END
+AcaoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/service/AcaoManager.java
+END

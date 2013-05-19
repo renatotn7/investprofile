@@ -1,0 +1,189 @@
+[INFO] Scanning for projects...
+[INFO] ----------------------------------------------------------------------------
+[INFO] Building AppFuse Modular Application - Web (Spring MVC)
+[INFO]    task-segment: [install]
+[INFO] ----------------------------------------------------------------------------
+[INFO] [native2ascii:native2ascii {execution: native2ascii-utf8}]
+[INFO] [native2ascii:native2ascii {execution: native2ascii-8859_1}]
+[INFO] [resources:resources]
+[INFO] Using default encoding to copy filtered resources.
+[INFO] [compiler:compile]
+[INFO] Nothing to compile - all classes are up to date
+[INFO] [resources:testResources]
+[INFO] Using default encoding to copy filtered resources.
+[INFO] [compiler:testCompile]
+[INFO] Nothing to compile - all classes are up to date
+[INFO] [dbunit:operation {execution: test-compile}]
+[INFO] [surefire:test]
+[INFO] Surefire report directory: d:\Source\investprofile\web\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running br.pucrio.inf.les.investprofile.webapp.filter.LocaleFilterTest
+DEBUG [main] LocaleFilter.init(157) | Initializing filter ''
+DEBUG [main] LocaleFilter.init(182) | Filter '' configured successfully
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: 
+DEBUG [main] LocaleFilter.init(157) | Initializing filter ''
+DEBUG [main] LocaleFilter.init(182) | Filter '' configured successfully
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: 
+DEBUG [main] LocaleFilter.init(157) | Initializing filter ''
+DEBUG [main] LocaleFilter.init(182) | Filter '' configured successfully
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: 
+DEBUG [main] LocaleFilter.init(157) | Initializing filter ''
+DEBUG [main] LocaleFilter.init(182) | Filter '' configured successfully
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: 
+DEBUG [main] LocaleFilter.init(157) | Initializing filter ''
+DEBUG [main] LocaleFilter.init(182) | Filter '' configured successfully
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: 
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.AcaoFormControllerTest
+INFO [main] AcaoFormControllerTest.loadContextLocations(51) | Loading additional configuration from: classpath:/applicationContext-resources.xml,classpath:/applicationContext-dao.xml,classpath:/applicationContext-service.xml,classpath*:/applicationContext.xml,/WEB-INF/applicationContext*.xml,/WEB-INF/dispatcher-servlet.xml
+DEBUG [main] AcaoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] AcaoFormControllerTest.testEdit(36) | testing edit...
+DEBUG [main] AcaoFormController.showNewForm(337) | Displaying new form
+DEBUG [main] AcaoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testEdit].
+DEBUG [main] AcaoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] AcaoFormController.showNewForm(337) | Displaying new form
+DEBUG [main] AcaoFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] AcaoFormController.onSubmit(52) | entering 'onSubmit' method...
+DEBUG [main] AcaoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testSave].
+DEBUG [main] AcaoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] AcaoFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] AcaoFormController.onSubmit(52) | entering 'onSubmit' method...
+DEBUG [main] AcaoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testRemove].
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.766 sec
+Running AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.UserControllerTest
+DEBUG [main] UserControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserController.handleRequest(38) | entering 'handleRequest' method...
+DEBUG [main] UserControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testHandleRequest].
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.234 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.SignupControllerTest
+DEBUG [main] SignupControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] SignupController.showNewForm(337) | Displaying new form
+DEBUG [main] SignupController.createCommand(362) | Creating new command of class [br.pucrio.inf.les.investprofile.model.User]
+DEBUG [main] SignupControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testDisplayForm].
+DEBUG [main] SignupControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] SignupController.createCommand(362) | Creating new command of class [br.pucrio.inf.les.investprofile.model.User]
+DEBUG [main] SignupController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] SignupController.onSubmit(40) | entering 'onSubmit' method...
+DEBUG [main] UserDaoHibernate.saveUser(47) | user's id: null
+DEBUG [main] SignupController.onSubmit(78) | Sending user 'self-registered' an account information e-mail
+DEBUG [main] SignupController.sendUserMessage(179) | sending e-mail to user [self-registered@raibledesigns.com]...
+DEBUG [main] SignupControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testSignupUser].
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.563 sec
+Running br.pucrio.inf.les.investprofile.webapp.filter.StaticFilterTest
+DEBUG [main] MockFilterChain.doFilter(37) | Forwarding to: /editProfile.html
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+Running br.pucrio.inf.les.investprofile.webapp.listener.StartupListenerTest
+DEBUG [main] StartupListener.contextInitialized(38) | Initializing context...
+DEBUG [main] StartupListener.contextInitialized(69) | authenticationManager bean not found, assuming test and ignoring...
+DEBUG [main] StartupListener.contextInitialized(77) | Remember Me Enabled? null
+DEBUG [main] StartupListener.contextInitialized(81) | Populating drop-downs...
+DEBUG [main] LookupDaoHibernate.getRoles(20) | Retrieving all role names...
+DEBUG [main] StartupListener.setupContext(97) | Drop-down initialization complete [OK]
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.313 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.PerfilInvestimentoFormControllerTest
+DEBUG [main] PerfilInvestimentoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] PerfilInvestimentoFormControllerTest.testEdit(37) | testing edit...
+DEBUG [main] PerfilInvestimentoFormController.showNewForm(337) | Displaying new form
+DEBUG [main] PerfilInvestimentoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testEdit].
+DEBUG [main] PerfilInvestimentoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] PerfilInvestimentoFormController.showNewForm(337) | Displaying new form
+DEBUG [main] PerfilInvestimentoFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] PerfilInvestimentoFormController.onSubmit(102) | entering 'onSubmit' method...
+DEBUG [main] PerfilInvestimentoDaoHibernate.savePerfilInvestimento(86) | PerfilInvestimento's id: 1
+DEBUG [main] PerfilInvestimentoFormController.onSubmit(126) | null
+DEBUG [main] PerfilInvestimentoFormController.onSubmit(135) | Usuario inexistente!
+DEBUG [main] PerfilInvestimentoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testSave].
+DEBUG [main] PerfilInvestimentoFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] PerfilInvestimentoFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] PerfilInvestimentoFormController.onSubmit(102) | entering 'onSubmit' method...
+DEBUG [main] PerfilInvestimentoManagerImpl.removePerfilInvestimento(90) | removing profile: 4
+DEBUG [main] PerfilInvestimentoFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testRemove].
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec <<< FAILURE!
+Running br.pucrio.inf.les.investprofile.webapp.controller.PasswordHintControllerTest
+DEBUG [main] PasswordHintControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] PasswordHintController.handleRequest(57) | entering 'handleRequest' method...
+DEBUG [main] PasswordHintController.handleRequest(69) | Processing Password Hint...
+DEBUG [main] PasswordHintControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testExecute].
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.AcaoControllerTest
+DEBUG [main] AcaoControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] AcaoController.handleRequest(34) | entering 'handleRequest' method...
+DEBUG [main] AcaoControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testHandleRequest].
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.UserFormControllerTest
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testEdit(57) | testing edit...
+DEBUG [main] UserFormController.showNewForm(337) | Displaying new form
+DEBUG [main] UserFormController.formBackingObject(167) | checking for remember me login...
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testEdit].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] UserFormController.onSubmit(66) | entering 'onSubmit' method...
+DEBUG [main] UserDaoHibernate.saveUser(47) | user's id: 1
+DEBUG [main] UserFormControllerTest.testSave(105) | {}
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testSave].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormController.processFormSubmission(266) | No errors -> processing submit
+DEBUG [main] UserFormController.onSubmit(66) | entering 'onSubmit' method...
+DEBUG [main] UserManagerImpl.removeUser(126) | removing user: 2
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testRemove].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testAdd(23) | testing add new user...
+DEBUG [main] UserFormController.showNewForm(337) | Displaying new form
+DEBUG [main] UserFormController.formBackingObject(167) | checking for remember me login...
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testAdd].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testAddWithoutPermission(34) | testing add new user...
+DEBUG [main] UserFormController.showNewForm(337) | Displaying new form
+DEBUG [main] UserFormController.formBackingObject(167) | checking for remember me login...
+WARN [main] UserFormController.showForm(150) | User 'null' is trying to edit user with id 'null'
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testAddWithoutPermission].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testCancel(47) | testing cancel...
+DEBUG [main] UserFormController.createCommand(362) | Creating new command of class [br.pucrio.inf.les.investprofile.model.User]
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testCancel].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testEditWithoutPermission(70) | testing edit...
+DEBUG [main] UserFormController.showNewForm(337) | Displaying new form
+DEBUG [main] UserFormController.formBackingObject(167) | checking for remember me login...
+WARN [main] UserFormController.showForm(150) | User 'null' is trying to edit user with id '1'
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testEditWithoutPermission].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormControllerTest.testEditProfile(83) | testing edit profile...
+DEBUG [main] UserFormController.showNewForm(337) | Displaying new form
+DEBUG [main] UserFormController.formBackingObject(167) | checking for remember me login...
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testEditProfile].
+DEBUG [main] UserFormControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] UserFormController.createCommand(362) | Creating new command of class [br.pucrio.inf.les.investprofile.model.User]
+DEBUG [main] UserFormController.processFormSubmission(256) | Data binding errors: 10
+DEBUG [main] UserFormControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testAddWithMissingFields].
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.125 sec
+Running br.pucrio.inf.les.investprofile.webapp.controller.PerfilInvestimentoControllerTest
+DEBUG [main] PerfilInvestimentoControllerTest.startNewTransaction(392) | Began transaction (1): transaction manager [org.springframework.orm.hibernate3.HibernateTransactionManager@e20ef8]; rollback [true].
+DEBUG [main] PerfilInvestimentoController.handleRequest(49) | entering 'handleRequest' method...
+DEBUG [main] PerfilInvestimentoControllerTest.endTransaction(360) | Rolled back transaction after execution of test [testHandleRequest].
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+
+Results :
+
+Failed tests: 
+  testSave(br.pucrio.inf.les.investprofile.webapp.controller.PerfilInvestimentoFormControllerTest)
+
+Tests run: 30, Failures: 1, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[ERROR] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] There are test failures.
+[INFO] ------------------------------------------------------------------------
+[INFO] For more information, run Maven with the -e switch
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 12 seconds
+[INFO] Finished at: Mon Jun 30 19:31:46 BRT 2008
+[INFO] Final Memory: 13M/25M
+[INFO] ------------------------------------------------------------------------

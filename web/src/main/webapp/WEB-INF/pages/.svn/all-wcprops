@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages
+END
+signup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/signup.jsp
+END
+acaoForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/acaoForm.jsp
+END
+uploadForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/uploadForm.jsp
+END
+mainMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/mainMenu.jsp
+END
+perfilInvestimentoForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/perfilInvestimentoForm.jsp
+END
+uploadDisplay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/uploadDisplay.jsp
+END
+acaoList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/acaoList.jsp
+END
+perfilInvestimentoList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/perfilInvestimentoList.jsp
+END
+pickList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/pickList.jsp
+END
+userForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/userForm.jsp
+END
+dataAccessFailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/pages/dataAccessFailure.jsp
+END

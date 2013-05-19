@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.pucrio.inf.les.investprofile.dao.CarteiraDaoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.243 sec

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao
+END
+UserDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/UserDaoTest.java
+END
+RecomendacaoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoDaoTest.java
+END
+QuestaoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/QuestaoDaoTest.java
+END
+RecomendacaoPerfilDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoPerfilDaoTest.java
+END
+QuestionarioDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/QuestionarioDaoTest.java
+END
+PerfilInvestimentoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/PerfilInvestimentoDaoTest.java
+END
+CarteiraDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/CarteiraDaoTest.java
+END
+RecomendacaoAnalistaDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoAnalistaDaoTest.java
+END
+PosicaoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/PosicaoDaoTest.java
+END
+RespostaDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/RespostaDaoTest.java
+END
+RoleDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/RoleDaoTest.java
+END
+AcaoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/AcaoDaoTest.java
+END
+UniversalDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/UniversalDaoTest.java
+END
+LookupDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/LookupDaoTest.java
+END
+CotacaoDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/dao/CotacaoDaoTest.java
+END

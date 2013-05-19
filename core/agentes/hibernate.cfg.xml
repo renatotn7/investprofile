@@ -1,0 +1,22 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="br.pucrio.inf.les.investprofile.model.User"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Role"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.PerfilInvestimento"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Acao"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.AcaoCarteira"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.AcaoRecomendacao"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Carteira"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.CarteiraAtual"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.CarteiraRecomendada"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Cotacao"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Questao"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Questionario"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.Resposta"/>
+        <mapping class="br.pucrio.inf.les.investprofile.model.RespostaPerfil"/>        
+        <mapping class="br.pucrio.inf.les.investprofile.model.Pessoa"/>
+    </session-factory>
+</hibernate-configuration>

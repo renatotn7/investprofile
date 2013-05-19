@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service
+END
+MockUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service/MockUserDetailsService.java
+END
+UserSecurityAdviceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service/UserSecurityAdviceTest.java
+END
+MailEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service/MailEngineTest.java
+END
+UserManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service/UserManagerTest.java
+END
+UserExistsExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/test/java/br/pucrio/inf/les/investprofile/service/UserExistsExceptionTest.java
+END

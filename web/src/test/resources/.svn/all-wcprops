@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources
+END
+export.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources/export.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources/config.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources/login.xml
+END
+sample-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources/sample-data.xml
+END
+web-tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/resources/web-tests.xml
+END

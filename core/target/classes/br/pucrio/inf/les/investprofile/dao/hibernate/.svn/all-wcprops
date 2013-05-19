@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate
+END
+CarteiraDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/CarteiraDaoHibernate.java
+END
+RecomendacaoAnalistaDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/RecomendacaoAnalistaDaoHibernate.java
+END
+PosicaoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/PosicaoDaoHibernate.java
+END
+RespostaDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/RespostaDaoHibernate.java
+END
+RoleDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/RoleDaoHibernate.java
+END
+AcaoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/AcaoDaoHibernate.java
+END
+UniversalDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/UniversalDaoHibernate.java
+END
+LookupDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/LookupDaoHibernate.java
+END
+CotacaoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/CotacaoDaoHibernate.java
+END
+GenericDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/GenericDaoHibernate.java
+END
+UserDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/UserDaoHibernate.java
+END
+RecomendacaoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/RecomendacaoDaoHibernate.java
+END
+QuestaoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/QuestaoDaoHibernate.java
+END
+RecomendacaoPerfilDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/RecomendacaoPerfilDaoHibernate.java
+END
+QuestionarioDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/QuestionarioDaoHibernate.java
+END
+PerfilInvestimentoDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/hibernate/PerfilInvestimentoDaoHibernate.java
+END

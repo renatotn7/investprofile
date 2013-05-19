@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao
+END
+GenericDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/GenericDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/UserDao.java
+END
+RecomendacaoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoDao.java
+END
+QuestaoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/QuestaoDao.java
+END
+RecomendacaoPerfilDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoPerfilDao.java
+END
+QuestionarioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/QuestionarioDao.java
+END
+PerfilInvestimentoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/PerfilInvestimentoDao.java
+END
+CarteiraDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/CarteiraDao.java
+END
+RecomendacaoAnalistaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/RecomendacaoAnalistaDao.java
+END
+PosicaoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/PosicaoDao.java
+END
+RespostaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/RespostaDao.java
+END
+RoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/RoleDao.java
+END
+AcaoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/AcaoDao.java
+END
+BaseDaoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/BaseDaoTestCase.java
+END
+UniversalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/UniversalDao.java
+END
+LookupDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/LookupDao.java
+END
+CotacaoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/3/trunk/%20investprofilecore%20--username%20mauricio.pinheiro/investprofile-core/src/main/java/br/pucrio/inf/les/investprofile/dao/CotacaoDao.java
+END

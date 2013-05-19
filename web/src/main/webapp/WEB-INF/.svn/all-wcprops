@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/sitemesh.xml
+END
+validator-rules-custom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/validator-rules-custom.xml
+END
+appfuse.tld
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/appfuse.tld
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/validation.xml
+END
+resin-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/resin-web.xml
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/dwr.xml
+END
+xfire-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/xfire-servlet.xml
+END
+applicationContext-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/applicationContext-validation.xml
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/urlrewrite.xml
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/decorators.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/security.xml
+END
+menu-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/menu-config.xml
+END
+dispatcher-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/dispatcher-servlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/web.xml
+END
+validator-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/main/webapp/WEB-INF/validator-rules.xml
+END

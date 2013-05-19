@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/java/br/pucrio/inf/les/investprofile/webapp/filter
+END
+MockFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/java/br/pucrio/inf/les/investprofile/webapp/filter/MockFilterChain.java
+END
+LocaleFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/java/br/pucrio/inf/les/investprofile/webapp/filter/LocaleFilterTest.java
+END
+StaticFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/3/trunk/%20investprofileweb%20--username%20mauricio.pinheiro/investprofile-webapp/src/test/java/br/pucrio/inf/les/investprofile/webapp/filter/StaticFilterTest.java
+END
